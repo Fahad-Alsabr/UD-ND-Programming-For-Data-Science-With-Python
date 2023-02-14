@@ -1,6 +1,4 @@
 # UD-ND-Programming-For-Data-Science-With-Python
-# Udacity-programming-for-Data-Science-using-Python-Nanodegree
-<img src="Images/Programming.jpg" width="1000">
 
 # Created by Fahad Alsabr
 
